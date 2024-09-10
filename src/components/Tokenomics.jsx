@@ -13,8 +13,7 @@ const Tokenomics = () => {
     return (
         <>
             <div className="bg-[#0A4740] -mt-[2px] relative z-[1]" id="Tokenomic">
-                <img
-                    src={TopLayer}
+                <img src={TopLayer}
                     alt="toplyare"
                     className="absolute top-0 z-[-1] left-0 right-0 object-cover w-full"
                 />

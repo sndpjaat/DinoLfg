@@ -96,13 +96,13 @@ const Roadmap = () => {
       <div className="max-w-[1164px] px-3 mx-auto pb-[35px] sm:pb-[60px]">
         <h2
           data-aos="fade-down"
-          className="text-[39px] sm:text-[64px] text-white text-center font-chewy leading-[43px] sm:leading-[83px] animate-f ade-in"
+          className="text-[39px] sm:text-[64px] text-white text-center py-5 font-chewy leading-[43px] sm:leading-[83px] animate-f ade-in"
         >
           Roadmap
         </h2>
         <div
        
-          className="max-sm:after:absolute animate-fade-in max-sm:relative after:animate-pulse after:bg-[#FBA11D] after:w-[30px] after:h-[30px] after:rounded-full after:left-[5.5%] after:top-[10%] max-w-[463px] lg:max-w-[767px] sm:mt-[97px] mt-[50px]  "
+          className="max-sm:after:absolute  max-sm:relative after:animate-pulse after:bg-[#FBA11D] after:w-[30px] after:h-[30px] after:rounded-full after:left-[5.5%] after:top-[10%] max-w-[463px] lg:max-w-[767px] sm:mt-[97px] mt-[50px]  "
         >
           <div className="max-sm:flex-col flex sm:items-center max-sm:ml-[90px] gap-[45px]">
             <h3 className="text-[#FBA11D] text-[100px] lg:text-[200px] font-chewy leading-[100px] lg:leading-[261px]">
