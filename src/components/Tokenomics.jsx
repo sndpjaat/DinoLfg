@@ -7,14 +7,14 @@ import CenterDragon from '../assets/images/webp/CenterDragon.webp'
 import FullChart from '../assets/images/webp/TokenFullChart.webp'
 import TopLayer from '../assets/images/webp/UtilityTopLayer.webp'
 import layergray from '../assets/images/webp/TokenShadows.webp'
-import TokenfDragontoken from '../assets/images/webp/TokenfDragontoken.png'
+import TokenDragontoken from '../assets/images/webp/TokenDragontoken.webp'
 import 'animate.css';
 const Tokenomics = () => {
     return (
         <>
             <div className="bg-[#0A4740] -mt-[2px] relative z-[1]" id="Tokenomic">
                 <img src={TopLayer} alt="toplyare" className="absolute top-0 z-[-1] left-0 right-0 object-cover w-full" />
-                <img src={TokenfDragontoken} alt="dargantooken" data-aos="zoom-in" className=" animate-herobounceanimnate max-sm:hidden absolute z-[2] left-[0%] max-w-[211px] max-h-[193px] w-full bottom-[3%]" />
+                <img src={TokenDragontoken} alt="TokenDragontoken" data-aos="zoom-in" className=" animate-herobounceanimnate max-sm:hidden absolute z-[2] left-[0%] max-w-[211px] max-h-[193px] w-full bottom-[3%]" />
                 <img src={TokenLeftTree} alt="TokenLeftTree" className="animate-TokenLeftTree absolute z-[1] left-[-1%] sm:max-w-[352px] max-w-[150px] max-h-[150px] sm:max-h-[446px] w-full bottom-[7%]" />
                 <img src={Tokenbottomlayer} alt="Tokenbottomlayer" className=" max-sm:hidden absolute bottom-0 left-0 right-0 w-full" />
                 <img src={layergray} alt="loyelggrey" className=" absolute right-[0%] z-[-1] top-[18%] max-w-[383px] max-h-[267px]" />
