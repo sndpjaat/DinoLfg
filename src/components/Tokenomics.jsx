@@ -1,13 +1,14 @@
 import React from 'react'
 import Chart from '../assets/images/webp/Chart.webp'
 import Chartline from '../assets/images/webp/Chartline.webp'
-import TokenDragontoken from '../assets/images/webp/TokenDragontoken.webp'
+// import TokenDragontoken from '../assets/images/webp/TokenDragontoken.webp'
 import Tokenbottomlayer from '../assets/images/webp/Tokenbottomlayer.webp'
 import TokenLeftTree from '../assets/images/webp/TokenLeftTree.webp'
 import CenterDragon from '../assets/images/webp/CenterDragon.webp'
 import FullChart from '../assets/images/webp/TokenFullChart.webp'
 import TopLayer from '../assets/images/webp/UtilityTopLayer.webp'
 import layergray from '../assets/images/webp/TokenShadows.webp'
+import TokenfDragontoken from '../assets/images/webp/TokenfDragontoken.png'
 import 'animate.css';
 const Tokenomics = () => {
     return (
@@ -18,7 +19,7 @@ const Tokenomics = () => {
                     className="absolute top-0 z-[-1] left-0 right-0 object-cover w-full"
                 />
                 <img
-                    src={TokenDragontoken}
+                    src={TokenfDragontoken}
                     alt="dargantooken"
                     data-aos="zoom-in"
                     className=" animate-herobounceanimnate max-sm:hidden absolute z-[2] left-[0%] max-w-[211px] max-h-[193px] w-full bottom-[3%]"
