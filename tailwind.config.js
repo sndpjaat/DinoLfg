@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        Chewy: ["lato", "system-ui"],
+        Chewy: ["chewy", "system-ui"],
         Balsamiq: ["Balsamiq", "sans-serif"],
       },
       backgroundSize: {
