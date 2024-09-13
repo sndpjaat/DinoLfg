@@ -23,7 +23,7 @@ const Tokenomics = () => {
                     <div className=" relative z-[2]">
                         <div className=" relative max-w-[589px] mx-auto z-[1] mt-[50px] sm:mt-[100px] lg:mt-[166px]" >
                             <img src={Chart} alt="chart" className="full_chart lg:flex mx-auto hidden  max-w-[493px] xl:max-w-[589px] w-full " />
-                            <img src={FullChart} alt="fullshart" className=" animatio  n-   FullChart block lg:hidden" />
+                            <img src={FullChart} alt="fullshart" className=" animation-FullChart block lg:hidden" />
                             <img src={CenterDragon} alt="centerdragon" className=" animate-bounce max-w-[133px] hidden lg:block w-full absolute top-[-30%] left-[40%]" />
                             <img src={Chartline} alt="chartline" className="full_chart_2 max-w-[252px] hidden lg:block  w-full absolute top-[-4%] right-[28.5%]" />
                         </div>
